@@ -213,8 +213,6 @@ Focus: Secure systems • High-integrity systems • Cybersecurity • System re
 - ⚙️ Google System Administration & IT Infrastructure Services
 - 🛡️ TryHackMe Cybersecurity Training
 
-> Note: CCNA is intentionally not listed because it is not included in my certifications.
-
 ---
 
 ## 📚 Currently Learning
