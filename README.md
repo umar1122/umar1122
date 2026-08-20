@@ -260,7 +260,9 @@ Future topics will include:
 <a href="https://www.linkedin.com/in/Umar011/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
+<a href="https://medium.com/@farooq.uf64">
+<img src="https://img.shields.io/badge/Medium-Read%20My%20Articles-black?style=for-the-badge&logo=medium" alt="Medium">
+</a>
 </p>
 
 ---
